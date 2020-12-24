@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 <br />
 <br />
