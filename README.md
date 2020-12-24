@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-
 <br />
 <br />
 
@@ -35,7 +31,7 @@ Here are some ideas to get you started:
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
